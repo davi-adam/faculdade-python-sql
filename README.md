@@ -14,6 +14,7 @@ dos temas abordados.
 
 ## Estrutura
 
+```
 faculdade-python-sql/
 │
 ├── Trimestre-1/
@@ -40,6 +41,7 @@ faculdade-python-sql/
 └── AT/
 └── python/        # Web scraping, SQL com SQLAlchemy e exceções
 └── sql/           # DDL, normalização, DML e queries avançadas
+```
 
 ## Tecnologias
 
