@@ -1,4 +1,4 @@
-# faculdade-python-sql
+# Exercícios Python & SQL — Segundo Semestre
 
 Repositório com exercícios selecionados das disciplinas de **Programação com Python**, **Python para Dados**, **Visualização de Dados e Introdução a SQL** e **Modelagem Relacional com SQL**
 cursadas ao longo do segundo semestre na faculdade.
